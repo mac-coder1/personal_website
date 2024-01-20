@@ -1,0 +1,17 @@
+baseURL = 'https://lowcarboncormac.com/'
+languageCode = 'en-uk'
+title = "Mac O'Malley"
+theme = 'ananke'
+
+
+
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "production"
+
+# URL specifies the Go Cloud Development Kit URL to deploy to. Examples:
+# Google Cloud Storage -- see https://gocloud.dev/howto/blob/#gcs
+URL = "gs://main-bucket-low-carbon-cormac"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mac O&#39;Malley</title>
+    <link>https://lowcarboncormac.com/posts/</link>
+    <description>Recent content in Posts on Mac O&#39;Malley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 20 Jan 2024 10:38:38 +0000</lastBuildDate>
+    <atom:link href="https://lowcarboncormac.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://lowcarboncormac.com/posts/my-first-post/</link>
+      <pubDate>Sat, 20 Jan 2024 10:38:38 +0000</pubDate>
+      <guid>https://lowcarboncormac.com/posts/my-first-post/</guid>
+      <description>🤑 Hello! This is my first post!</description>
+    </item>
+  </channel>
+</rss>
